@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Grocer",
+  "description": "Real-time grocery shopping with live inventory, end-to-end encrypted privacy vault, push delivery tracking, and loyalty rewards.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
